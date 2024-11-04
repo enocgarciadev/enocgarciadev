@@ -46,6 +46,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![snake gif](https://github.com/enocgarciadev/enocgarciadev/blob/output/github-snake-dark.svg)
-
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/enocgarciadev/enocgarciadev/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/enocgarciadev/enocgarciadev/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/enocgarciadev/enocgarciadev/blob/output/github-snake.svg" />
+</picture>
